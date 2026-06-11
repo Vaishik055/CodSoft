@@ -11,7 +11,7 @@ A program that calculates total marks, average percentage, and assigns grades ba
 ## 🔹 Task 3 – ATM Interface (Optional)
 Simulates ATM operations such as deposit, withdrawal, and balance checking.
 
-## 🔹 Task 4 – Currency Converter
+## 🔹 Task 4 – Currency Converter(Optional)
 Converts currencies using predefined exchange rates.
 
 ---
